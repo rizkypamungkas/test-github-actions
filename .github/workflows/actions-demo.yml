@@ -11,3 +11,4 @@ jobs:
           mkdir -p default
           cd default
           echo "Hala Madrid Siempreeeeeeeee!" > halo.sh
+          cat halo.sh
