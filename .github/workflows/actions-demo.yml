@@ -1,1 +1,13 @@
+name: demo actions
+on: [push]
 
+jobs: 
+  demo-actions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: create folder & file
+        run: |
+          mkdir -p default
+          cd default
+          echo "Hala Madrid Siempreeeeeeeee! > halo.sh
