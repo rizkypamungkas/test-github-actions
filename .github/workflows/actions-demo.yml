@@ -10,4 +10,4 @@ jobs:
         run: |
           mkdir -p default
           cd default
-          echo "Hala Madrid Siempreeeeeeeee! > halo.sh
+          echo "Hala Madrid Siempreeeeeeeee!" > halo.sh
